@@ -82,4 +82,9 @@ Provide product category name translation
 - product_category_name 
 - product_category_name_english
 
+## A. [Data Exploration and Cleaning by Google Biq query]()
+
+## B. [Analysis]()
+
+## c. [Looker Dashboard Link](https://lookerstudio.google.com/reporting/9d1ec006-00ac-40ba-9686-4af9577e4bfb)
 

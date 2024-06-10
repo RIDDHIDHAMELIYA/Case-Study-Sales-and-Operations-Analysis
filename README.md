@@ -84,7 +84,7 @@ Provide product category name translation
 
 ## A. [Data Exploration and Cleaning by Google Biq query]()
 
-## B. [Analysis]()
+## B. [Analysis](https://github.com/RIDDHIDHAMELIYA/Case-Study-Sales-and-Operations-Analysis/blob/main/Sales_and_Operations_Analysis.pdf)
 
 ## c. [Looker Dashboard Link](https://lookerstudio.google.com/reporting/9d1ec006-00ac-40ba-9686-4af9577e4bfb)
 

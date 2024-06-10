@@ -82,10 +82,9 @@ Provide product category name translation
 - product_category_name 
 - product_category_name_english
 
-## A. [Data Exploration and Cleaning by Google Biq query]
-
-**> (1.https://github.com/RIDDHIDHAMELIYA/Case-Study-Sales-and-Operations-Analysis/blob/main/Sales_Query.sql)**
-**> (2.https://github.com/RIDDHIDHAMELIYA/Case-Study-Sales-and-Operations-Analysis/blob/main/Operations_Query.sql)**
+## A. Data Exploration and Cleaning by Google Big query
+>**1.[Sales Analysis Query](https://github.com/RIDDHIDHAMELIYA/Case-Study-Sales-and-Operations-Analysis/blob/main/Sales_Query.sql)**
+>**2.[Operations Analysis Query](https://github.com/RIDDHIDHAMELIYA/Case-Study-Sales-and-Operations-Analysis/blob/main/Operations_Query.sql)**
 
 ## B. [Analysis](https://github.com/RIDDHIDHAMELIYA/Case-Study-Sales-and-Operations-Analysis/blob/main/Sales_and_Operations_Analysis.pdf)
 
